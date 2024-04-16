@@ -5,11 +5,11 @@
 </p>
 
 ## <picture><img src = "https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width = 100px></picture> ABOUT ME
-- 🔭 I’m currently working as a freelance Software Engineer (frontend, backend, full-stack, etc..).
-- I love linux and `bash` script.
-- 📚️ Holberton school/alx student.
-- 👯 I’m looking to collaborate on an open-source projects, and making a positive impact on the world.
-- 💬 Ask me about anything, at least say hi!
+- 🔭 **I’m currently working as a freelance Software Engineer (backend, devops, frontend, sre, full-stack, etc..).**
+- **I love linux and `bash` script.**
+- 📚️ **Holberton school/alx student.**
+- 👯 **I’m looking to collaborate on an open-source projects, and making a positive impact on the world.**
+- 💬 **Ask me about anything, at least say hi!**
 
 <br>
 
