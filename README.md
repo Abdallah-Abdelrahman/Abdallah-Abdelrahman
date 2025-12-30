@@ -16,21 +16,20 @@
 ## <picture><img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width ="80"></picture> SKILLS
 
 - **Programming Languages**:
-  
+
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![Typescript](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Nodejs](https://img.shields.io/badge/Nodejs-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=black)
     ![Bash](https://img.shields.io/badge/gnubash-0?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=%23fff&color=%23000)
 
 
 
 - **Databases**:
-- 
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
   ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongoDB&logoColor=black)
   ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
